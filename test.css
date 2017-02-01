@@ -1,0 +1,26 @@
+body
+{
+	background: #3C3B37;
+}
+form
+{
+	margin-top: 5%;
+	background:white;
+	border-radius: 10px;
+}
+h1
+{
+	text-align: center;
+}
+#flip
+{
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#panel
+{
+	background-color: white;
+    display: none;
+}
